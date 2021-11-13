@@ -1,6 +1,6 @@
-<div style="margin: 0 auto !important; text-align: center;">
+<a href="https://charlie.sh" style="margin: 0 auto !important; text-align: center;">
 <img src="https://i.imgur.com/InlPkul.png">
-</div>
+</a>
 
 
 ### **About Me**
