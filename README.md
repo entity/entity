@@ -1,6 +1,7 @@
 ![Logo](.github/dark.svg#gh-dark-mode-only)
 ![Logo](.github/light.svg#gh-light-mode-only)
-# Charlie Joseph
+
+## Hi, I'm Charlie!
 A 21 year old web & software engineer from London, England, UK.
 
 Feel free to click [here](https://charliejoseph.com) to view my portfolio of active & client projects, in addition to more information about me.
