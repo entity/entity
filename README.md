@@ -1,5 +1,5 @@
-![Logo](.github/dark.svg#gh-light-mode-only)
-![Logo](.github/light.svg#gh-dark-mode-only)
+![Logo](.github/dark.svg#gh-dark-mode-only)
+![Logo](.github/light.svg#gh-light-mode-only)
 # Charlie Joseph
 A 21 year old web & software engineer from London, England, UK.
 
