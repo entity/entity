@@ -2,7 +2,7 @@
 ![Logo](.github/light.svg#gh-light-mode-only)
 
 ### Hey, I'm Charlie Joseph!
-A 21 year old web & software engineer from London, England, UK.
+A Web & Software Engineer from London, England, UK.
 
 I'm currently working on [Analyse](https://analyse.net/), a Minecraft analytics platform for server admins.
 
