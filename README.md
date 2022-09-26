@@ -4,9 +4,7 @@
 ### Hey, I'm Charlie Joseph!
 A Web & Software Engineer from London, England, UK.
 
-I'm currently working on [Analyse](https://analyse.net/), a Minecraft analytics platform for server admins.
-
-Feel free to check my [website](https://charliejoseph.com) to see my portfolio of active & client projects, in addition to more information about me.
+Check out my [website](https://charliejoseph.com) to view my portfolio.
 
 [![GitHub Chazza](https://img.shields.io/github/followers/heychazza?label=follow&style=social)](https://github.com/heychazza)
 ![Twitter Follow](https://img.shields.io/twitter/follow/heychazza?style=social)
