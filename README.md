@@ -18,6 +18,7 @@ I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 ## Projects
 - 🎮 [Bazaar Tracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
 - 📊 [Analyse](https://analyse.net) - Minecraft UGC Server Analytics (Acquired)
+- 🖥️ [JoinServers](https://joinservers.com) - Minecraft Server List (Acquired, Now: CurseForge Servers)
 
 ## Contact
 - [charliejoseph.com](https://charliejoseph.com)
