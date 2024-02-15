@@ -4,7 +4,7 @@
 ## Hey! 👋
 I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 
-- 📊 I am the founder of [Analyse](https://analyse.net) (Game Server Analytics for Minecraft UGC)
+- 📊 I am the founder of [Tebex Analytics](https://analyse.net) (Game Server Analytics for Minecraft UGC)
 - 🎨 I turn beautiful, one-word domains into branded and scaleable businesses
 - 🎮 I have been deeply involved in the Minecraft scene since 2014
 - 👨🏼‍💻 I am currently the Head of Analytics, Tebex at [Overwolf](https://overwolf.com)
