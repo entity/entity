@@ -21,6 +21,6 @@ I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 - 🖥️ [JoinServers](https://joinservers.com) - Minecraft Server List (Acquired, Now: CurseForge Servers)
 
 ## Contact
-- [charliejoseph.com](https://charliejoseph.com)
+- [charliej.com](https://charliej.com)
 - [@heychazza](https://twitter.com/heychazza) on Twitter
 - [@heychazza](https://lookup.guru/631572156534358047) on Discord
