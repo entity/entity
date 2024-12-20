@@ -4,9 +4,14 @@
 ## Hey! 👋
 I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 
-- 📊 I am the founder of [Analyse](https://analyse.net) (Game Server Analytics for Minecraft UGC)
+- 📊 I founded [Analyse](https://analyse.net) (Game Server Analytics for Minecraft UGC)
 - 🎨 I turn beautiful, one-word domains into branded and scaleable businesses
 - 🎮 I have been deeply involved in the Minecraft scene since 2014
+
+## Projects
+- 🎮 [BazaarTracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
+- 📊 [Analyse](https://analyse.net) - Minecraft UGC Server Analytics (Acquired)
+- 🖥️ [JoinServers](https://curseforge.com/servers) - Minecraft Server List (Acquired, Now: CurseForge Servers)
 
 ## Featured Articles
 - [Analyse Real-Time Dashboard Case Study](https://www.singlestore.com/customers/analyse/) - SingleStore
@@ -14,12 +19,7 @@ I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 - [Running SingleStore on Apple Silicon](https://laravel-news.com/running-singlestore-on-apple-silicon) - Laravel News
 - [Guest Engineer Showcase](https://www.singlestore.com/blog/engineer-showcase-charlie-joseph/) - SingleStore
 
-## Projects
-- 🎮 [Bazaar Tracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
-- 📊 [Analyse](https://analyse.net) - Minecraft UGC Server Analytics
-- 🖥️ [JoinServers](https://joinservers.com) - Minecraft Server List (Acquired, Now: CurseForge Servers)
-
 ## Contact
 - [charliej.com](https://charliej.com)
-- [@heychazza](https://twitter.com/heychazza) on Twitter
+- [@heychazza](https://x.com/heychazza) on Twitter/X
 - [@heychazza](https://lookup.guru/631572156534358047) on Discord
