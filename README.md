@@ -22,4 +22,4 @@ I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 ## Contact
 - [charliej.com](https://charliej.com)
 - [@heychazza](https://x.com/heychazza) on Twitter/X
-- [@heychazza](https://lookup.guru/631572156534358047) on Discord
+- [@charnary](https://lookup.guru/631572156534358047) on Discord
