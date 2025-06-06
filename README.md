@@ -4,7 +4,7 @@
 ## Hey! 👋
 I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 
-- 📊 I founded [Analyse](https://analyse.net) (Game Server Analytics for Minecraft UGC)
+- 🏝️ I’m the Founder/CEO at [AtoBeach](https://atobeach.com) (UK Beach Travel Planner)
 - 🎨 I turn beautiful, one-word domains into branded and scaleable businesses
 - 🎮 I have been deeply involved in the Minecraft scene since 2014
 
@@ -21,5 +21,5 @@ I'm Charlie J, a Software Developer and Entrepreneur from London, England.
 
 ## Contact
 - [charliej.com](https://charliej.com)
-- [@heychazza](https://x.com/heychazza) on Twitter/X
 - [@charnary](https://lookup.guru/631572156534358047) on Discord
+- [@heychazza](https://x.com/heychazza) on Twitter/X
