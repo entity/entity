@@ -2,12 +2,12 @@
 ![Logo](.github/light.svg#gh-light-mode-only)
 
 ## Hey! 👋
-I'm Charlie J, a Software Developer and Entrepreneur from London, England.
+I'm Charlie J, a Software Engineer and Entrepreneur from London, England.
 
-- 🐛 I’m the Founder/CEO at [Bug.io](https://bug.io) (AI-Powered Bug Tracking for UGC Creators)
-- 🏝️ Also working on [AtoBeach](https://atobeach.com) (UK Beach Travel Planner)
-- 🎨 I turn beautiful, one-word domains into branded and scaleable businesses
-- 🎮 I have been deeply involved in the Minecraft scene since 2014
+- 🏝️ Founder/CEO at [AtoBeach](https://atobeach.com) (UK Beach Travel Planner)
+- 🐛 Also building [Bug.io](https://bug.io) (AI-Powered Bug Tracking for UGC Creators)
+- 🎨 I turn beautiful, one-word domains into branded and scalable businesses
+- 🎮 I have been involved in the gaming scene since 2014
 
 ## Projects
 - 🎮 [BazaarTracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
