@@ -5,9 +5,7 @@
 I'm Charlie J, a Software Engineer and Entrepreneur from London, England.
 
 - 🏝️ Founder/CEO at [AtoBeach](https://atobeach.com) (UK Beach Travel Planner)
-- 🐛 Also building [Bug.io](https://bug.io) (AI-Powered Bug Tracking for UGC Creators)
-- 🎨 I turn beautiful, one-word domains into branded and scalable businesses
-- 🎮 I have been involved in the gaming scene since 2014
+- 🎮 Design Engineer at [BisectHosting](https://bisecthostin.com) (Game Server Hosting)
 
 ## Projects
 - 🎮 [BazaarTracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
