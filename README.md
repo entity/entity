@@ -4,10 +4,9 @@
 ## Hey! 👋
 I'm Charlie J, a Software Engineer and Entrepreneur from London, England.
 
-- 🏝️ Founder/CEO at [AtoBeach](https://atobeach.com) (UK Beach Travel Planner)
-- 🎮 Design Engineer at [BisectHosting](https://bisecthostin.com) (Game Server Hosting)
+Founder/CEO at [AtoBeach](https://atobeach.com) 🏖️, building the AI travel agent for beach holidays.
 
-## Projects
+## Past Ventures
 - 🎮 [BazaarTracker](https://bazaartracker.com) - Hypixel Bazaar Item Tracking (Acquired)
 - 📊 [Analyse](https://analyse.net) - Minecraft UGC Server Analytics (Acquired)
 - 🖥️ [JoinServers](https://curseforge.com/servers) - Minecraft Server List (Acquired, Now: CurseForge Servers)
@@ -21,4 +20,4 @@ I'm Charlie J, a Software Engineer and Entrepreneur from London, England.
 ## Contact
 - [charliej.com](https://charliej.com)
 - [@charnary](https://lookup.guru/631572156534358047) on Discord
-- [@heychazza](https://x.com/heychazza) on Twitter/X
+- [@chazza](https://x.com/chazza) on Twitter/X
